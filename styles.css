@@ -11,19 +11,19 @@ body {
 
 @font-face {
   font-family: 'Norse';
-  src: url('../images/Norsebold.otf') format('opentype');
+  src: url('images/Norsebold.otf') format('opentype');
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'Norse';
-  src: url('../images/Norsebold.otf') format('opentype');
+  src: url('images/Norsebold.otf') format('opentype');
   font-weight: bold;
 }
 
 
 .left__container {
-    background-image: url("../images/halie-west-25xggax4bSA-unsplash.jpg");
+    background-image: url("images/halie-west-25xggax4bSA-unsplash.jpg");
     background-size: cover;
     background-position:center;
     position: relative;
